@@ -1,0 +1,8 @@
+Label,Description,Local Position
+Workshop Set,<b>SampleScene</b>/Example Assets/Workshop Set,"(0,0,0)"
+Props,<b>SampleScene</b>/Example Assets/Props,"(0,0,0)"
+Paint Supplies,<b>SampleScene</b>/Example Assets/Props/Paint Supplies,"(-1.147252,-0.3026404,-0.4373283)"
+Construction Light Low,<b>SampleScene</b>/Example Assets/Props/Construction Light Low,"(0.92,-0.3026404,0.27)"
+Workbench,<b>SampleScene</b>/Example Assets/Props/Workbench,"(-1.655252,-0.3026404,-1.003328)"
+Workbench_LOD0,<b>SampleScene</b>/Example Assets/Props/Workbench/Workbench_LOD0,"(-1.062,0.38,2.714)"
+Workbench_LOD1,<b>SampleScene</b>/Example Assets/Props/Workbench/Workbench_LOD1,"(-1.062,0.38,2.714)"

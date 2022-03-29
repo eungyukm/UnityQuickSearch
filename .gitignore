@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignore Probuilder
+QuickSearch/Library/ArtifactDB
+QuickSearch/Library/PackageCache
